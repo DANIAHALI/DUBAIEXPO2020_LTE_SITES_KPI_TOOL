@@ -1,0 +1,69 @@
+eNodeB Name,Cell Name,Downlink EARFCN,Physical cell ID,L.UL.Interference.Avg(dBm),UL Interference Result
+DXNL0599-Expo-Multilateral-Buildings-Mobility-District,DXNL05993,1450,393,-117.66666666666667,UL Interference Fine
+DXNL0606-Expo-Al-Wasl-Plaza-Hotel-F-(Parcel-F),DXNL06062,1450,402,-116.33333333333333,UL Interference Fine
+DXNL0562-Expo-Germany-Pavilion,DXNL05623,1450,413,NIL,Locked
+DXNL0594-Expo-Sustainability-Pavilion,DXNL05941,1450,447,-111.0,High UL Interference
+DXNL0597-Expo-Mobility-Pavilion,DXNL05972,1450,456,-112.66666666666667,UL Interference Fine
+DXNL0591-Expo-Opportunity-Pavilion,DXNL05911,1450,487,-117.33333333333333,UL Interference Fine
+DXBL0636III-Expo-Operations-Pavilion-C326-4803-BookRRU,DXBL06363,1850,475,NIL,Locked
+DXNL0729-Expo-CoEx-Building-Site-9-(BOH),DXNL07293,1450,424,-118.0,UL Interference Fine
+DXNL0613-Expo-Village-Building-11-Site-2-(A4),DXNL06131,1850,419,-115.66666666666667,UL Interference Fine
+DXNL0592-Expo-Opportunity-District-Basement,DXNL05927,1450,426,-108.0,High UL Interference
+DXBL0687V-Expo-Chile-Pavilion-BookRRU,DXBL06875,1850,403,-117.66666666666667,UL Interference Fine
+DXNL0602-Expo-Al-Wasl-Plaza-Building-A-Office,DXNL06021,1450,392,-117.66666666666667,UL Interference Fine
+DXBL0633I-Expo-Slovenia-Pavilion-BookRRU,DXBL06331,1850,428,-117.0,UL Interference Fine
+DXNL0726-Expo-CoEx-Building-Site-6-(Hall-M-N),DXNL07264,1450,433,-118.0,UL Interference Fine
+DXBL0636VIII-Expo-Lithuania-Pavilion-BookRRU,DXBL06368,1850,397,NIL,Locked
+DXBL0633III-Expo-Australia-Pavilion-BookRRU,DXBL06333,1850,424,-115.0,UL Interference Fine
+DXNL0495-Dubai-Metro-Red-Line-Expo-Link-R74-Station-Tunnel,DXNL04954,1450,401,-115.0,UL Interference Fine
+DXNL0723-Expo-CoEx-Building-Site-3-(Hall-D-E),DXNL07231,1450,481,-118.66666666666667,UL Interference Fine
+DXNL0603-Expo-Al-Wasl-Plaza-Building-B-Office,DXNL06031,1450,457,-78.66666666666667,High UL Interference
+DXNL0361-Dubai-Metro-Red-Line-Expo-Link-R71-Station-(Elevated),DXNL03612,1450,407,-116.0,UL Interference Fine
+DXNL0608-Expo-Village-Building-7-Site-2_B1_C2-1_C2-2,DXNL06085,1450,421,-116.0,UL Interference Fine
+DXNL0325-Dubai-Metro-Red-Line-Expo-Link-NHT-Station-(Elevated),DXNL03256,1450,481,-117.33333333333333,UL Interference Fine
+DXNL0604-Expo-Al-Wasl-Plaza-Building-C-Office,DXNL06043,1450,408,-116.0,UL Interference Fine
+DXNL0730-Expo-Egypt-Pavilion,DXNL07303,1450,484,-112.33333333333333,UL Interference Fine
+DXNL0725-Expo-CoEx-Building-Site-5-(Hall-J),DXNL07252,1850,491,-118.0,UL Interference Fine
+DXNL0992-Expo-HQ-Office-Extension,DXNL09921,1450,443,-114.33333333333333,UL Interference Fine
+DXNL0595-Expo-Sustainability-District-Basement,DXNL05951,1450,435,-117.66666666666667,UL Interference Fine
+DXNL0366-Dubai-Metro-Red-Line-Expo-Link-R73-Station-Tunnel,DXNL03663,1450,385,-117.66666666666667,UL Interference Fine
+DXNL0728-Expo-CoEx-Building-Site-8-(Hall-B-C),DXNL07285,1450,472,-118.33333333333333,UL Interference Fine
+DXNL0345-Dubai-Metro-Red-Line-Expo-Link-R70-Station-(Elevated),DXNL03451,1450,398,-117.0,UL Interference Fine
+DXNL0598-Expo-Mobility-District-Basement,DXNL05987,1450,432,-99.0,High UL Interference
+DXNL0601-Expo-Al-Wasl-Plaza-Basement_Truck-Tunnel-(Parcel-G-H),DXNL06012,1450,471,-115.66666666666667,UL Interference Fine
+IDXL5234V-Expo-United-Kingdom-Pavilion-Self-Built-BookRRU,IDXL52345,1850,445,-116.0,UL Interference Fine
+DXNL0493-Expo-India-Pavilion,DXNL04931,1450,407,NIL,Locked
+DXNL0590-Expo-UAE-Pavilion,DXNL05903,1450,412,-114.66666666666667,UL Interference Fine
+DXNL0611-Expo-Village-Building-10-(A5-C4),DXNL06113,1850,442,-117.66666666666667,UL Interference Fine
+DXNL0724-Expo-CoEx-Building-Site-4-(Hall-A),DXNL07246,1450,409,-118.0,UL Interference Fine
+IDXL5094III-ATOM-Expo-Operational-Pavilion-C91-Book-RRU,IDXL50943,1850,400,-116.0,UL Interference Fine
+DXNL0609-Expo-Village-Buildings-8-9-Site-1-(A3-A4),DXNL06094,1450,450,-117.33333333333333,UL Interference Fine
+DXNL0651-Expo-Saudi-Arabia-Pavilion,DXNL06511,1450,478,-114.66666666666667,UL Interference Fine
+DXNL0610-Expo-Village-Buildings-8-9-Site-2(B2-B3-C3),DXNL06101,1450,395,-117.66666666666667,UL Interference Fine
+IDXL5971I-Expo-Netherlands-Pavilion-BookRRU,IDXL59711,1850,502,NIL,Locked
+IDXL5954IV-Expo-Azerbaijan-Pavilion-BookRRU,IDXL59544,1850,411,-116.0,UL Interference Fine
+DXNL0605-Expo-Al-Wasl-Plaza-Hotel-E-(Parcel-E),DXNL06051,1450,466,-109.66666666666667,High UL Interference
+DXNL0727-Expo-CoEx-Building-Site-7-(Hall-K-L),DXNL07276,1450,488,-118.66666666666667,UL Interference Fine
+DXBL0636VII-Expo-Operations-Pavilion-C198-BookRRU,DXBL06367,1850,479,-115.33333333333333,UL Interference Fine
+IDXL5094II-ATOM-Expo-Operational-Pavilion-C80-Book-RRU,IDXL50942,1850,490,-116.0,UL Interference Fine
+IDXL5094IV-ATOM-Expo-Operational-Pavilion-C105-Book-RRU,IDXL50944,1850,483,-116.0,UL Interference Fine
+IDXL5954IX-Expo-Philippines-Pavilion-Book-RRU,IDXL59549,1850,472,-116.0,UL Interference Fine
+DXNL0362-Dubai-Metro-Red-Line-Expo-Link-R72-Station-(Elevated),DXNL03622,1450,387,-112.33333333333333,UL Interference Fine
+IDXL5234IV-Expo-Korea-Pavilion-Self-Built-BookRRU,IDXL52344,1850,404,-116.0,UL Interference Fine
+DXBL0687I-Expo-Czech-Republic-Pavilion-BookRRU,DXBL06871,1850,464,-116.0,UL Interference Fine
+DXNL0496-Dubai-Metro-Red-Line-Expo-2020-Station-(Elevated),DXNL04963,1450,481,-117.66666666666667,UL Interference Fine
+DXNL0612-Expo-Village-Building-11-Site-1-(A3-C4),DXNL06125,1450,499,-117.33333333333333,UL Interference Fine
+DXNL0596-Expo-Multilateral-Buildings-Sustainability-District,DXNL05962,1450,410,-116.66666666666667,UL Interference Fine
+DXNL0721-Expo-CoEx-Building-Site-1-(Hall-H-I),DXNL07213,1850,427,-118.33333333333333,UL Interference Fine
+IDXL5954V-Expo-Kazakhstan-Pavilion-BookRRU,IDXL59545,1850,451,-115.0,UL Interference Fine
+IDXL5954X-Expo-Portugal-Pavilion-Book-RRU,IDXL595410,1850,416,-116.0,UL Interference Fine
+DXBL0687II-Expo-Thailand-Pavilion-BookRRU,DXBL06872,1850,448,-115.0,UL Interference Fine
+DXNL0621-Dubai-Metro-Red-Line-Expo-Link-Tunnel,DXNL06215,1450,468,NIL,Locked
+DXBL0636II-Expo-Operations-Pavilion-C49-BookRRU,DXBL06362,1850,498,-117.0,UL Interference Fine
+DXBL0636VI-Expo-Operations-Pavilion-C102-BookRRU,DXBL06366,1850,503,-115.33333333333333,UL Interference Fine
+DXNL0650-Expo-Emirates-Pavilion,DXNL06503,1450,420,-112.66666666666667,UL Interference Fine
+DXNL0593-Expo-Multilateral-Buildings-Opportunity-District,DXNL05931,1450,423,-117.33333333333333,UL Interference Fine
+IDXL5970V-ATOM-Expo-Belarus-Pavilion-(Self-Built),IDXL59705,1850,488,-116.0,UL Interference Fine
+DXNL0722-Expo-CoEx-Building-Site-2-(Hall-F-G),DXNL07223,1850,384,-118.0,UL Interference Fine
+DXNL0607-Expo-Village-Building-7-Site-1-(A1-1_A1-2),DXNL06079,1450,467,-117.66666666666667,UL Interference Fine
+DXBL0687III-Expo-Angola-Pavilion-BookRRU,DXBL06873,1850,401,-111.0,High UL Interference
